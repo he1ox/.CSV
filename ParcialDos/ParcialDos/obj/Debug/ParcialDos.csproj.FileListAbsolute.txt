@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\PARCIAL II\ParcialDos\ParcialDos\bin\Debug\ParcialDos.exe.config
+C:\Users\georg\source\repos\PARCIAL II\ParcialDos\ParcialDos\bin\Debug\ParcialDos.exe
+C:\Users\georg\source\repos\PARCIAL II\ParcialDos\ParcialDos\bin\Debug\ParcialDos.pdb
+C:\Users\georg\source\repos\PARCIAL II\ParcialDos\ParcialDos\obj\Debug\ParcialDos.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\PARCIAL II\ParcialDos\ParcialDos\obj\Debug\ParcialDos.Form1.resources
+C:\Users\georg\source\repos\PARCIAL II\ParcialDos\ParcialDos\obj\Debug\ParcialDos.Properties.Resources.resources
+C:\Users\georg\source\repos\PARCIAL II\ParcialDos\ParcialDos\obj\Debug\ParcialDos.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\PARCIAL II\ParcialDos\ParcialDos\obj\Debug\ParcialDos.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\PARCIAL II\ParcialDos\ParcialDos\obj\Debug\ParcialDos.exe
+C:\Users\georg\source\repos\PARCIAL II\ParcialDos\ParcialDos\obj\Debug\ParcialDos.pdb
